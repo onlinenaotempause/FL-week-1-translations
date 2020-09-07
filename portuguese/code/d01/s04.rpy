@@ -945,7 +945,7 @@ translate portuguese replay_d01s04_3eef3a8e:
 translate portuguese replay_d01s04_a31fe0ae:
 
     # "Girl voice" "Get in here!"
-    "Girl voice" "Get in here!"
+    "Voz de Garota" "Vem aqui!"
 
 # game/code/d01/s04.rpy:356
 translate portuguese replay_d01s04_6a2d8399:
